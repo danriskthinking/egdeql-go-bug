@@ -1,3 +1,0 @@
-module Test {
-    type Test{}
-};
